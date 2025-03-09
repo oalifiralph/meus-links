@@ -8,7 +8,7 @@ Este é um template simples e estiloso para criar sua própria página de Link B
 
 Você pode visualizar o site de exemplo no seguinte link:
 
-👉 [Visualizar Site](https://links-do-ar-dev.vercel.app/)
+👉 [Visualizar site](https://links-do-ar-dev.vercel.app/)
 
 ---
 
