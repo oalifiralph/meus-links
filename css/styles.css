@@ -15,12 +15,41 @@ body {
     width: 100%;
     min-height: 100vh;
     padding-top: 2rem;
-    padding-bottom: 2rem;
-    
+    padding-bottom: 2rem;   
 }
 
 a {
     text-decoration: none;
+}
+
+#loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #151515;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#loading-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0%;
+    background-color: var(--color-green);
+}
+
+#loading-text {
+    position: absolute;
+    color: var(--color-white);
+    font-size: 3rem;
+    z-index: 10;
 }
 
 
