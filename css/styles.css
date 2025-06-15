@@ -26,7 +26,7 @@ a {
 
 /* Variaveis Globais*/
 :root {
-    --color-destaque: #8FE20E;
+    --color-destaque: #016cfe;
     --color-black: #101010;
     --color-white: #fafafa;
 }
@@ -238,7 +238,7 @@ a {
 }
 
 .redes-sociais .spotify:hover i {
-    color: #4add06;
+    color: #016cfe;
     transition: color 0.3s;
 }
 
