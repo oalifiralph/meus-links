@@ -238,12 +238,12 @@ a {
 }
 
 .redes-sociais .spotify:hover i {
-    color: #016cfe;
+    color: #1ed760;
     transition: color 0.3s;
 }
 
 .redes-sociais .mail:hover i {
-    color: #808080;
+    color: #0077B5;
     transition: color 0.3s;
 }
 
