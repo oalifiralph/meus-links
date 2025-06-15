@@ -188,11 +188,11 @@ a {
 .img-site {
     width: 100%;
     height: 100px;
-    background-image: url(/image/awsc.png);
+    background-image: url(/image/SSA.png);
     background-position: center;
-    background-size: 100%;
+    background-size: 70%;
     background-repeat: no-repeat;
-    border-radius: 8px;
+    border-radius: 70px;
 }
 
 .img-site img {
